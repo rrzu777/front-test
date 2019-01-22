@@ -1,0 +1,14 @@
+.post {
+    width: 250px;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #333;
+    box-shadow: 0 0 22px 2px #ccc;
+    margin: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.post:hover {
+    background-color: #C0DDF5;
+}
